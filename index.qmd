@@ -41,6 +41,7 @@ The dataset and the metadata are described from a scientific perspective in a ma
 :::
 ::::::
 
+```{=html}
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const navbar = document.querySelector(".navbar");
@@ -58,3 +59,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
+```
