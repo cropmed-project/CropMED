@@ -1,1 +1,1 @@
-Sitemap: https://dario-ssm.github.io/CropMED/sitemap.xml
+Sitemap: https://cropmed-project.github.io/CropMED/sitemap.xml
