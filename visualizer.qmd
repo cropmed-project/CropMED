@@ -34,7 +34,6 @@ cat('</script>\n')
 
 <p id="crop-error" style="display:none; color:#b00;">
 
-
 </p>
 :::
 
@@ -50,6 +49,10 @@ const errorMsg = document.getElementById('crop-error');
 
 let highlightedIndex = -1;
 let currentOptions = [];
+
+function capitalize(s) {
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
 
 function renderDropdown(options) {
   currentOptions = options;
@@ -142,12 +145,11 @@ document.addEventListener('click', (e) => {
 function buscarCultivo() {
   const crop = input.value.trim();
   closeDropdown();
-
   if (allCrops.includes(crop)) {
     placeholder.style.display = 'none';
     errorMsg.style.display = 'none';
     img.style.display = 'block';
-    img.src = `images/${crop}.png`;
+    img.src = `images/${capitalize(crop)}.png`;   // <-- cambio aquí
     img.alt = `Crop map: ${crop}`;
   } else {
     img.style.display = 'none';
