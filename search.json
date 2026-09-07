@@ -32,14 +32,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "If you have any question about the data, please send an email to dario.san@uah.es or open an Issue in the GitHub repository."
+    "text": "If you have any question about the data, please send an email to dario.sansegundo.molina@proton.me or open an Issue in the GitHub repository."
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
     "title": "About",
     "section": "",
-    "text": "If you have any question about the data, please send an email to dario.san@uah.es or open an Issue in the GitHub repository."
+    "text": "If you have any question about the data, please send an email to dario.sansegundo.molina@proton.me or open an Issue in the GitHub repository."
   },
   {
     "objectID": "about.html#update-plan",
@@ -53,14 +53,14 @@
     "href": "about.html#data-sources",
     "title": "About",
     "section": "Data sources",
-    "text": "Data sources\nThe data descriptor article (now under submission in a scientific journal) properly cites all data sources used to compile CropMED.\n\n\n\n\n\n\nScientific Article describing the dataset:\n\n\n\nSan-Segundo Molina, D., Villén-Pérez, S. & Morales-Castilla, I., 2026. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. Journal Information To Be Completed After Publication."
+    "text": "Data sources\nThe data descriptor article (now under submission in a scientific journal) properly cites all data sources used to compile CropMED.\n\n\n\n\n\n\nScientific Article describing the dataset:\n\n\n\nSan-Segundo Molina, D., Morales-Castilla, I. & Villén-Pérez, S. 2026. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. Journal Information To Be Completed After Publication."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CROPMED",
     "section": "",
-    "text": "CropMED is an open dataset including areas of 191 crops (in hectares) that have been compiled and harmonized from official institutions of 48 countries in the region.\n\n\n\n\nMain dataset: CropMED is primarily available as a table in comma-separated values (.csv) format, including hectares of each crop corresponding to each administrative unit and aggregated into crop groups and subgroups (see Overview).\nGIS extension: CropMED is also available in GeoPackage format (.gpkg, see definition here) for intended usage in GIS programs.\nPictures: CropMED also provides multiple images showing the distribution of hectares for each crop included in the dataset. These maps can be easily visualized in the visualizer.qmd page.\n\n\n\n\nPlease give credit to the authors by referring to the data deposit at Zenodo as follows:   \n\nSan Segundo Molina, D., Villén Pérez, S. & Morales Castilla, I. 2026. A harmonized fine-scale crop area dataset across administrations in Europe, the Mediterranean and the Levant. Zenodo https://doi.org/10.5281/zenodo.2071710\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe dataset and the metadata are described from a scientific perspective in a manuscript currently under submission and review. This page will be updated to include the scientific citation as follows:\nSan-Segundo Molina, D., Villén-Pérez, S. & Morales-Castilla, I., 2026. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. Journal Information To Be Completed After Publication."
+    "text": "CropMED is an open dataset including areas of 191 crops (in hectares) that have been compiled and harmonized from official institutions of 48 countries in the region.\n\n\n\n\nMain dataset: CropMED is primarily available as a table in comma-separated values (.csv) format, including hectares of each crop corresponding to each administrative unit and aggregated into crop groups and subgroups (see Overview).\nGIS extension: CropMED is also available in GeoPackage format (.gpkg, see definition here) for intended usage in GIS programs.\nPictures: CropMED also provides multiple images showing the distribution of hectares for each crop included in the dataset. These maps can be easily visualized in the visualizer.qmd page.\n\n\n\n\nPlease give credit to the authors by referring to the data deposit at Zenodo as follows:   \n\nSan Segundo Molina, D., Morales Castilla, I. & Villén Pérez, S. 2026. A harmonized fine-scale crop area dataset across administrations in Europe, the Mediterranean and the Levant. Zenodo https://doi.org/10.5281/zenodo.21672597.\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nThe dataset and the metadata are described from a scientific perspective in a manuscript currently under submission and review. This page will be updated to include the scientific citation as follows:\nSan Segundo Molina, D., Morales Castilla, I. & Villén Pérez, S. 2026. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. Journal Information To Be Completed After Publication."
   },
   {
     "objectID": "qualityIndicators.html",
