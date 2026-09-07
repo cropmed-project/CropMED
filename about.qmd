@@ -9,7 +9,7 @@ editor: visual
 
 ## Contact
 
-If you have any question about the data, please send an email to [dario.san\@uah.es](mailto: dario.san@uah.es) or open an Issue in the [GitHub repository](https://github.com/dario-ssm/CropMED).
+If you have any question about the data, please send an email to [dario.sansegundo.molina\@proton.me](mailto:%20dario.sansegundo.molina@proton.me) or open an Issue in the [GitHub repository](https://github.com/cropmed-project/CropMED).
 
 ## Update Plan
 
@@ -20,8 +20,7 @@ The *CropMED* dataset is intended to be updated every two years by members of th
 The data descriptor article (now under submission in a scientific journal) properly cites all data sources used to compile *CropMED*.
 
 ::: callout-note
-
 ### Scientific Article describing the dataset:
 
-| **San-Segundo Molina, D., Villén-Pérez, S. & Morales-Castilla, I., 2026**. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. *Journal Information To Be Completed After Publication*.
+| **San-Segundo Molina, D., Morales-Castilla, I. &  Villén-Pérez, S. 2026**. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. *Journal Information To Be Completed After Publication*.
 :::

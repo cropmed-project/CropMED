@@ -30,14 +30,14 @@ body-class: home-page
 
 | Please give credit to the authors by referring to the data deposit at Zenodo as follows:   
 | 
-| **San Segundo Molina, D., Villén Pérez, S. & Morales Castilla, I. 2026**. A harmonized fine-scale crop area dataset across administrations in Europe, the Mediterranean and the Levant. *Zenodo* [https://doi.org/10.5281/zenodo.2071710](https://doi.org/10.5281/zenodo.20717102 "https://doi.org/10.5281/zenodo.20717102")
+| **San Segundo Molina, D., Morales Castilla, I. & Villén Pérez, S.  2026**. A harmonized fine-scale crop area dataset across administrations in Europe, the Mediterranean and the Levant. *Zenodo* <https://doi.org/10.5281/zenodo.21672597>.
 
 #### Scientific Citation
 
 ::: callout-note
 The dataset and the metadata are described from a scientific perspective in a manuscript currently under submission and review. This page will be updated to include the scientific citation as follows:
 
-| **San-Segundo Molina, D., Villén-Pérez, S. & Morales-Castilla, I., 2026**. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. *Journal Information To Be Completed After Publication*.
+| **San Segundo Molina, D., Morales Castilla, I. & Villén Pérez, S.  2026**. CropMED: A harmonized, fine-scale crop area dataset across administrations in Europe, the Mediterranean Basin and the Levant. *Journal Information To Be Completed After Publication*.
 :::
 ::::::
 
